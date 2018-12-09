@@ -28,8 +28,8 @@ end
         Here is a table with the domain ranges for the polar equation.
 --]]
 
-local SCALE_SIZE = 250
-local MAX_POINTS = 10
+local SCALE_SIZE = 300
+local MAX_POINTS = 30
 local INTERVAL = 0.1
 
 local ranges = {
